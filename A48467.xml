@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A manifestation from Lieutenant Col. John Lilburn, Mr. William Walwyn, Mr. Thomas Prince, and Mr. Richard Overton (now prisioners in the Tower of London) and others, commonly (though unjustly) styled Levellers : intended for full vindication from the many aspersions cast upon them, to render them odious to the world, and unserviceable to the Common-wealth, and to satisfie and ascertain all men whereunto all their motions and endeavours tend, and what is the ultimate scope of their engagement in the publick affaires : they also that render evill for good, are our adversaries, because we follow the thing that good is.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48467</idno>
+            <idno type="STC">Wing L2142</idno>
+            <idno type="STC">ESTC R205657</idno>
+            <idno type="EEBO-CITATION">12426307</idno>
+            <idno type="OCLC">ocm 12426307</idno>
+            <idno type="VID">61868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48467)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61868)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 944:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A manifestation from Lieutenant Col. John Lilburn, Mr. William Walwyn, Mr. Thomas Prince, and Mr. Richard Overton (now prisioners in the Tower of London) and others, commonly (though unjustly) styled Levellers : intended for full vindication from the many aspersions cast upon them, to render them odious to the world, and unserviceable to the Common-wealth, and to satisfie and ascertain all men whereunto all their motions and endeavours tend, and what is the ultimate scope of their engagement in the publick affaires : they also that render evill for good, are our adversaries, because we follow the thing that good is.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+                  <author>Walwyn, William, 1600-1681.</author>
+                  <author>Prince, Thomas.</author>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61868:1" rendition="simple:additions"/>
+            <pb facs="tcp:61868:1" rendition="simple:additions"/>
+            <p>A Manifeſtation FROM Lieutenant Col. <hi>John Lilburn,</hi> M<hi rend="sup">r.</hi> 
+               <hi>William Walwyn,</hi> M<hi rend="sup">r.</hi> 
+               <hi>Thomas Prince,</hi> and M<hi rend="sup">r.</hi> 
+               <hi>Richard Overton,</hi> (Now Priſoners in the TOVVER of <hi>London</hi>) And others, commonly (though unjuſtly) <hi>STYLED</hi> LEVELLERS.</p>
+            <p>Intended for their FVLL VINDICATION FROM The many aſperſions caſt upon them, to render them odious to the World, and unſer<g ref="char:EOLhyphen"/>viceable to the <hi>Common-wealth.</hi>
+            </p>
+            <p>And to ſatisfie and aſcertain all MEN whereunto all their Motions and Endeavours tend, and what is the ultimate Scope of their Engagement in the <hi>PVBLICK AFFAIRES.</hi>
+            </p>
+            <p>They alſo that render evill for good, are <hi>Our</hi> adverſaries: becauſe <hi>We</hi> follow the thing that good is.</p>
+            <p>Printed in the year of our LORD, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61868:2"/>
+            <pb n="3" facs="tcp:61868:2"/>
+            <head>A MANIFESTATION FROM Lieutenant Colonel <hi>Iohn Lilburn,</hi> Maſter <hi>William Walwyne,</hi> Maſter <hi>Thomas Prince,</hi> and Maſter <hi>Richard Overton</hi> (now priſoners in the Tower of <hi>London</hi>) and others, commonly (though unjuſtly) ſtiled <hi>Levellers.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince no man is born for himſelf only, but obliged by the Laws of Na<g ref="char:EOLhyphen"/>ture (which reaches all) of Chriſtianity (which ingages us at Chriſtians) and of Publick Societie and Government, to employ our endeavours for the advancement of a communitive Happineſſe, of equall concernment to others as our ſelves: here have we (accor<g ref="char:EOLhyphen"/>ding to that meaſure of underſtanding God hath diſpenſed unto us) laboured with much weakneſſe indeed, but with integrity of heart, to produce out of the Common Calamities, ſuch a proportion of Freedom and good to the Nation, as might ſomewhat compenſate its many grievances and laſting ſufferings: And although in doing thereof we have hitherto reaped only Re<g ref="char:EOLhyphen"/>proach, and hatred for our good Will, and been faine to wreſtle with the violent paſſions of Powers and Principalities; yet ſince it is nothing ſo much as our Bleſſed Maſter and his Followers ſuffered before us, and but what at firſt we reckoned upon, we cannot be thereby any whit diſmayed in the performance of our duties, ſupported inwardly by the Innocency and evenneſſe of our Conſciences.</p>
+            <p>'Tis a very great unhappineſſe we well know, to be alwayes ſtrugling and ſtriving in the world, and does wholly keep us from the enjoyment of thoſe contentments our ſeve<g ref="char:EOLhyphen"/>rall Conditions reach unto: So that if we ſhould conſult only with our ſelves, and regard only our own eaſe, Wee ſhould never enterpoſe as we have done, in behalfe of the Com<g ref="char:EOLhyphen"/>mon-wealth: But when ſo much has been done for recovery of our Liberties, and ſeeing God hath ſo bleſt that which has been done, as thereby to cleer the way, and to afford an opportunity which theſe 600 years has been deſired, but could never be attained; of ma<g ref="char:EOLhyphen"/>king this a <hi>truly happy</hi> and <hi>wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly Free</hi> Nation; We think our ſelves bound by the great<g ref="char:EOLhyphen"/>eſt obligations that may be, to prevent the neglect of this opportunity, and to hinder as much as lyes in us, that the bloud which has been ſhed be not ſpilt like water upon the ground, nor that after the abundant Calamities, which have overſpread all quarters of the Land, the change be onely Notionall, Nominall, Circumſtantiall, whilſt the reall Bur<g ref="char:EOLhyphen"/>dens, Grievances, and Bondages, be continued, even when the Monarchy is changed in<g ref="char:EOLhyphen"/>to a Republike.</p>
+            <p>We are no more concern'd indeed then other men, and could bear the Yoke we be<g ref="char:EOLhyphen"/>lieve as eaſily as others; but ſince a Common Duty lyes upon every man to be cautious and circumſpect in behalfe of his Country, eſpecially while the Government thereof is ſetling, other mens neglect is ſo far we thinke from being a juſt motive to us of the like ſloath an<g ref="char:EOLhyphen"/>inanimiadvertency,
+<pb n="4" facs="tcp:61868:3"/>as that it rather requires of us an increaſe of care and circumſpection which if it produces not ſo good a ſettlement as ought to be, yet certainly it will prevent its being ſo bad as otherwiſe it would be, if we ſhould all only mind our particular cal<g ref="char:EOLhyphen"/>lings and imployments.</p>
+            <p>So that although perſonally we may ſuffer, yet our ſolace is that the Common-wealth is therby ſome gainer, and we doubt not but that God in his due time wil ſo cleerly diſpel the Clouds of Ignominy and Obloquy which now ſurround us by keeping our hearts upright and our ſpirits ſincerely publike, that every good man will give us the right hand of fellow<g ref="char:EOLhyphen"/>ſhip, and be even ſorry that they have been eſtranged, and ſo hardly opinionated againſt us: We queſtion not but that in time the reaſon of ſuch miſpriſions will appeare to be in their eyes and not in our Actions, in the falſe Repreſentation of things to them and im<g ref="char:EOLhyphen"/>proper gloſſes that are put upon every thing we do or ſay: In our own behalfs we have as yet ſaid nothing, truſting that either ſhame and Chriſtian duty would reſtraine men from making ſo bold with others good Name and Reputation, or that the ſincerity of our acti<g ref="char:EOLhyphen"/>ons would evince the falſhood of theſe ſcandals, and prevent the Peoples Beliefe of them; But we have found that with too much greedineſſe they ſuck in Reports that tend to the diſcredit of others, and that our ſilence gives encouragement to bad Rumors of us; ſo that in all places they are ſpread, and induſtriouſly propagated as well amongſt them that know us, as them that know us not, the firſt being fed with Jealouſies that there is more in our deſigns then appeares, that there is ſomething of danger in the bottom of our hearts, not yet diſcovered: that we are driven on by others, that we are even diſcontented and irreſolved, that no body yet knowes what we would have, or where our deſires will end; whilſt they that know us not are made believe any ſtrange conceit of us, that we would Le<g ref="char:EOLhyphen"/>vell all mens eſtates, that we would have no diſtinction of Orders and Dignities amongſt men, that we are indeed for no government, but a Popular conſuſion; and then againe that we have bin Agents for the King, and now for the Queen; That we are Atheiſts, An<g ref="char:EOLhyphen"/>tiſcripturiſts, Jeſuites and indeed any thing, that is hatefull and of evill repute amongſt men.</p>
+            <p>All which we could without obſervance paſs over, remembring what is promiſed to be the Portion of good men, were the damage only perſonall, but ſince the ends of ſuch Ru<g ref="char:EOLhyphen"/>mors are purpoſely to make us uſeleſſe and unſerviceable to the Common-wealth, we are neceſſitated to open our breaſts and ſhew the world our inſides, for removing of thoſe ſeandalls that lye upon us, and likewiſe for manifeſting plainly and particularly what our deſires are, and in what we will center and acquieſs: all which we ſhall preſent to publike view and conſideration, not pertinatiouſly or Magiſterially, as concluding other mens judgements, but manifeſting our own, for our further vindication, and for the procuring of a Bond and laſting eſtabliſhment for the Commonwealth.</p>
+            <p>Firſt, Then it will be requiſite that we expreſs our ſelves concerning Levelling, for which we ſuppoſe is commonly meant an equalling of mens eſtates, and taking away the proper right and Title that every man has to what is his own. This as we have formerly declared againſt, particularly in our petition of the 11 of Sept. ſo do we again profeſſe that to attempt an inducing the ſame is moſt injurious, unleſſe there did precede an univerſall aſſent thereunto from all and every one of the People. Nor doe we, under favour, judge it within the Power of a Repreſentative it ſelfe, becauſe although their power is ſupreame, yet it is but deputative and of truſt, and conſequently muſt be reſtrained expreſly or ta<g ref="char:EOLhyphen"/>citely, to ſome particulars eſſential as well to the Peoples ſafety and freedom as to the pre<g ref="char:EOLhyphen"/>ſent Government</p>
+            <p>The Community amongſt the primitive Chriſtians, was <hi>Voluntary,</hi> not <hi>Coactive;</hi> they
+<pb n="5" facs="tcp:61868:3"/>
+               <hi>brought</hi> their goods and laid them at the Apoſtles feet, they were not enjoyned to bring them, it was the effect of their Charity and heavenly mindedneſſe, which the bleſſed Apo<g ref="char:EOLhyphen"/>ſtles begot in them, and not the Injunction of any Conſtitution, which as it was but for a ſhort time done, and in but two or three places, that the Scripture makes mention of, ſo does the very doing of it there and the Apoſtles anſwer to him that detained a part, im<g ref="char:EOLhyphen"/>ply that it was not eſteemed a duty, but reckoned a voluntary act occaſioned by the abun<g ref="char:EOLhyphen"/>dant meaſure of faith that was in thoſe Chriſtians and Apoſtles.</p>
+            <p>We profeſs therefore that we never had it in our thoughts to Level mens eſttates, it being the utmoſt of our aime that the Common-wealth be reduced to ſuch a paſſe that every man may with as much ſecurity as may be enjoy his propriety.</p>
+            <p>We know very well that in all Ages thoſe men that engage themſelves againſt Tyran<g ref="char:EOLhyphen"/>ny, unjuſt and Arbitrary proceedings in Magiſtrats, have ſuffered under ſuch appellati<g ref="char:EOLhyphen"/>ons, the People being purpoſely frighted from that wich is good by inſinuations of ima<g ref="char:EOLhyphen"/>ginary evill.</p>
+            <p>But be it ſo, we muſt notwithſtanding diſcharge our Duties, which being performed, the ſucceſſe is in Gods hand to whoſe good pleaſure we muſt leave the cleering of mens ſpirits, our only certainty being Tranquillity of mind, and peace of Conſcience.</p>
+            <p>For diſtinction of Orders and Dignities, We think them ſo far needfull, as they are animoſities of vertue, or requiſite for the maintenance of the Magiſtracy and Govern<g ref="char:EOLhyphen"/>ment, we thinke they were never intended for the nouriſhment of Ambition, or ſubjuga<g ref="char:EOLhyphen"/>tion of the People but only to preſerve the due reſpect and obedience in the People which is neceſſary for the better execution of the Laws.</p>
+            <p>That we are for Government and againſt Popular Confuſion, we conceive all our actions declare, when rightly conſidered, our aim having bin all along to reduce it as near as might be to perfection, and certainly we know very well the pravity and corruption of mans heart is ſuch that there could be no living without it; and that though Tyranny is ſo exceſſively bad, yet of the two extreames, Confuſion is the worſt: Tis ſomewhat a ſtrange conſequence to infer that becauſe we have laboured ſo earneſtly for a good Government, therefore we would have none at all; Becauſe we would have the dead and exorbitant Branches pruned, and better ſciens grafted, therefore we would pluck the Tree up by the roots.</p>
+            <p>Yet thus have we been miſconceived, and miſrepreſented to the world, under which we muſt ſuffer, till God ſees it fitting in his good time to cleer ſuch harſh miſtakes, by which many, even good men keep a diſtance from us.</p>
+            <p>For thoſe weake ſuppoſitions of ſome of us being Agents for the King or Queen, we think it needful to ſay no more but this, That though we have not bin any way violent againſt the perſons of them, or their Partie, as having aimed at the converſion of all, and the deſtruction of none, yet doe we verily beleeve that thoſe Principles and Maxims of Government which are moſt fundamentally oppoſite to the Prerogative, and the Kings intereſt, take their firſt riſe and originall from us, many whereof though at firſt ſtarled at, and diſown'd by thoſe that profeſſed the greateſt oppoſition to him, have yet ſince been taken up by them and put in practiſe: and this we think is ſufficient, though much more might be ſaid to cleer us from any Agency for that Party.</p>
+            <p>It is likewiſe ſuggeſted that we are acted by others, who have other ends then appear to us; we anſwer. That that cannot be, ſince every thing has its riſe amongſt our ſelves, and ſince thoſe things we bring to light cannot conduce to the ends of any but the publike weale of the Nation.</p>
+            <p>All our Deſires, Petitions and Papers are directly oppoſite to all corrupt Intereſts; nor
+<pb n="6" facs="tcp:61868:4"/>have any, credit with us, but perſons well known, and of certain aboads, and ſuch as have given ſound and undeniable teſtimonies of the truth of their affection to their Country: Beſides, the things we promote, are not good onely in appearance, but ſenſibly ſo: not moulded nor contrived by the ſubtill or politick Principles of the World, but plainly produced and nakedly ſent, without any inſinuating arts, relying wholly upon the appa<g ref="char:EOLhyphen"/>rent and univerſall beleefe they carry in themſelves; and that is it which convinces and engages us in the promotion thereof. So that that ſuggeſtion has not in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed any foundation in it ſelf, but is purpoſely framed, as we conceive, to make us afraid one of another, and to diſable us in the promotion of thoſe good things that tend to the freedom and happineſſe of the Common-wealth.</p>
+            <p>For our being Jeſuits, either in Order or Principles, as 'tis ſeverally reported of us; Though the eaſieſt Negative is hardly proved; yet we can ſay, That thoſe on whom the firſt is principally fix'd, are married, and were never over Sea: and we think Marriage is never diſpenc'd withall in that Order, and that none can be admitted into the Order but ſuch as are perſonally preſent. 'Tis hard that we are put to expreſſe thus much; and haply we might better paſſe ſuch reports over in ſilence; but that we beleeve the very mention<g ref="char:EOLhyphen"/>ing of them publickly, will be an anſwer to them, and make ſuch as foment them aſham'd of ſuch generally condemned wayes of diſcrediting and blaſting the Reputation of other men. For the principles of Jeſuits, we profeſſe we know not what they are; but they are generally ſaid to be full of craft and worldly policy; and therefore exceedingly diffe<g ref="char:EOLhyphen"/>rent from that plainneſs and ſimplicity that is apparantly viſible in all our procee<g ref="char:EOLhyphen"/>dings.</p>
+            <p>Whereas its ſaid, we are Atheiſts and Antiſcripturiſts, we profeſſe that we beleeve there is one eternall and omnipotent God, the Author and Preſerver of all things in the world. To whoſe will and directions, written firſt in our hearts, and afterwards in his bleſſed Word, we ought to ſquare our actions and converſations. And though we are not ſo ſtrict upon the formall and Ceremonial part of his Service, the method, manner, and perſonall injunction being not ſo clearly made out unto us, nor the neceſſary requiſites which his Officers and Miniſters ought to be furniſhed withall as yet appearing to ſome of us in any that pretend thereunto: yet for the manifeſtation of Gods love in Chriſt, it is cleerly aſſented unto by us; and the practicall and moſt reall part of Religion is as readi<g ref="char:EOLhyphen"/>ly ſubmitted unto by us, as being, in our apprehenſions, the moſt eminent and the moſt excellent in the world, and as proceeding from no other but that God who is Goodneſſe it ſelf: and we humbly deſire his Goodneſſe daily more and more to conform our hearts to a willing and ſincere obedience thereunto.</p>
+            <p>For our not being preferred to Offices and Places of profit and credit, which is urged to be the ground of our diſſatisfaction, we ſay, That although we know no reaſon why we ſhould not be equally capable of them with other men, nor why our publick Affection ſhould be any barr or hinderance thereunto: Yet on the other ſide, we ſuppoſe we can truly ſay of our ſelves, that we have not been ſo earneſt and ſolicitous after them as o<g ref="char:EOLhyphen"/>thers: and that in the Catalogue of Sutors, very few that are reckoned of us, are to be found. We are very ſorry that ſo general a change of Officers is propoſed, which we judge of no ſmall diſparagement to our Cauſe; and do think it beſt, that in removals of that kinde, the ground ſhould not be difference in opinion, either in Religious or Civil Matters, but corruption or breach of Truſt; conſidering the miſery which befalls whole Families upon ſuch Changes; and that diſcontents are thereby increaſed: Whereas we hold it neceſſary that all wayes of compoſure and acquieting thoſe ſtorms which the pre<g ref="char:EOLhyphen"/>ceding differences and diſtractions have begotten, be with utmoſt care and prudence en<g ref="char:EOLhyphen"/>deavoured.</p>
+            <pb n="7" facs="tcp:61868:4"/>
+            <p>And whereas 'tis urged, That if we were in power, we would bear our ſelves as Ty<g ref="char:EOLhyphen"/>rannically as other have done: We confeſs indeed, that the experimentall defections of ſo many men as have ſucceeded in Authority, and the exceeding difference we have hitherto found in the ſame men in a low, and in an exalted condition, makes us even miſ<g ref="char:EOLhyphen"/>truſt our own hearts, and hardly beleeve our own Reſolutions of the contrary. And therefore we have propoſed ſuch an Eſtabliſhment, as ſuppoſing men to be too flexible and yeelding to worldly Temptations, they ſhould not yet have a means or opportunity either to injure particulars, or prejudice the Publick, without extreme hazard, and appa<g ref="char:EOLhyphen"/>rent danger to themſelves. Beſides, to the objection we have further to ſay, That we aim not at power in our ſelves, our Principles and Deſires being in no meaſure of ſelf-concernment: nor do we relie for obtaining the ſame upon ſtrength, or a forcible ob<g ref="char:EOLhyphen"/>ſtruction; but ſolely upon that inbred and perſwaſive power that is in all good and juſt things, to make their own way in the hearts of men, and ſo to procure their own E<g ref="char:EOLhyphen"/>ſtabliſhment.</p>
+            <p>And that makes us at this time naked and defenceleſſe as we are, and amidſt ſo many diſcouragements on all hands to perſevere in our motions and deſires of good to the Nation; although diſowned therein at ſuch a time when the doing thereof can be interpreted no other but a politick delivering us up to ſlaughter, by ſuch as we took for Friends, our brethren of ſeverall Churches; and for whom with truth of affection we have even in the moſt difficult times done many Services: all which, and whatſoever elſe can be done againſt us, we ſhall reckon but as badges of our ſincerity, and be no whit diſcouraged thereby from the diſcharge of our duties.</p>
+            <p>For the diſ-ſatisfactions that be upon many good mens ſpirits, for that they are not aſ<g ref="char:EOLhyphen"/>certained whereunto all our motions tend, and in what they will center,</p>
+            <p>Though, we conceive, they may have received ſome general ſatisfaction from what we have formerly at ſeverall times propounded; yet ſince they were not diſpoſed into ſuch a form and condition as to become practicable; we have, with the beſt care and a<g ref="char:EOLhyphen"/>bilities God hath afforded us, caſt the ſame into a Modell and Platform, which we ſhall ſpeedily preſent unto the view and conſideration of all, as the <hi>Standard</hi> and ultimate ſcope of our Deſignes, that ſo (in eaſe of approvall) it may be ſubſcribed and returned as agreed upon by the People. And thus far, we conceive, we may without offence or prejudice to Authority, proceed; and which we the rather do, becauſe we know no better, and indeed no other way or means (but by ſuch an Agreement) to remove (as much as may be) all diſguſts and heart-burnings, and to ſettle the Common-wealth upon the faireſt probabilities of a laſting Peace, and contentfull Eſtabliſhment.</p>
+            <p>The Agreement of the People which was preſented by his Excellency and the Offi<g ref="char:EOLhyphen"/>cers of the Army to the Right Honourable the Commons in Parliament, although in many things ſhort (according to our apprehenſions) of what is neceſſary for the good of the Common-wealth, and ſatisfaction of the People; particularly, in that it con<g ref="char:EOLhyphen"/>taineth no proviſion for the certain removall of notorious and generally complained of grievances: And although it hath ſome things of much hazard to the Publick,— yet, had it been put in execution, we ſhould ſcarcely have interrupted the proceedings thereof, ſince therein is contained many things of great and important concernment to the Common-wealth. But ſeeing the time propoſed therein for reducing the ſame into practice, is now paſt, and that likewiſe the generality of the people have not, or do not approve of the ſame, for the reaſons (as we ſuppoſe) fore-mentioned: We have thought fit to reviſe it, making onely ſuch alterations therein as we conceive really neceſſary for the welfare, ſecurity and ſafety of the People, together with additionall Proviſions for the
+<pb n="8" facs="tcp:61868:5" rendition="simple:additions"/>taking away of thoſe Burdens and Grievances which may without reall prejudice to the Management of publick Affairs be removed.</p>
+            <p>And becauſe it is eſſentiall to the nature of ſuch an Agreement to take its riſe from the People, we have therefore purpoſely declined the preſentment thereof to the Par<g ref="char:EOLhyphen"/>liament: and conceive it may ſpeedily proceed to Subſcription, and ſo to further pra<g ref="char:EOLhyphen"/>ctice, without any interruption to this Repreſentative, untill the ſeaſon prefix'd in the Agreement, for the aſſembling another: By whoſe immediate ſucceſſion, without any intervall, the Affairs of the Common-wealth may ſuffer no ſtop or intermiſſion.</p>
+            <p>Laſtly, We conceive we are much miſtaken to being judged impatient, and over-violent in our motions for the publick Good. To which we anſwer, That could we have had any aſſurance that what is deſired ſhould have otherwiſe, or by any have been done; and had not had ſome taſte of the relinquiſhment of many good things that were promi<g ref="char:EOLhyphen"/>ſed, we ſhould not have been ſo earneſt and urgent for the doing thereof.</p>
+            <p>Though we know likewiſe it hath been very cuſtomary in ſuch heretofore as never in<g ref="char:EOLhyphen"/>tended any freedom to the Nation, to except only againſt the ſeaſon, and to protract the time ſo long, till they became ſufficiently impowred to juſtifie the totall denyall and re<g ref="char:EOLhyphen"/>fuſall thereof. However, the main reaſon of our proceeding as we do, is, becauſe we pre<g ref="char:EOLhyphen"/>fer the way of a ſettlement by an Agreement of the People before any other whatſoever.</p>
+            <p>And thus the world may clearly ſee what we are, and what we aym at: We are alto<g ref="char:EOLhyphen"/>gether ignorant, and do from our hearts abominate all deſignes and contrivances of dan<g ref="char:EOLhyphen"/>gerous conſequence which we are ſaid (but God knows, untruly) to be labouring withall. Peace and Freedom is our Deſigne; by War we were never gainers, nor ever wiſh to be; and under bondage we have been hitherto ſufferers. We deſire however, that what is paſt may be forgotten, provided the Common wealth may have amends made it for the time to come. And this from our ſoul we deſire.</p>
+            <p>Having no mens perſons in ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red, and judging it needfull that all other reſpects what<g ref="char:EOLhyphen"/>ſoever are to give way to the good of the Common-wealth, and this is the very truth and inſide of our hearts.</p>
+            <closer>
+               <dateline>
+                  <hi>From the Tower,</hi> 
+                  <date>
+                     <hi>April</hi> 14. 1649.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Lilburne</hi>
+                     </item>
+                     <item>
+                        <hi>William Walwyn</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Prince</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Overton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:61868:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
